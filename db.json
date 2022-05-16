@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Eugenio",
+      "empresa": "Dev Eugenio",
+      "email": "eugeniogunz@hotmail.com",
+      "telefono": "379132712",
+      "notas": "recomend",
+      "id": 1
+    }
+  ]
+}
