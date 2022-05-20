@@ -1,20 +1,12 @@
 {
   "clientes": [
     {
-      "nombre": "Eugenio act",
+      "nombre": "Eugenio Actualizado",
       "empresa": "Dev Eugenio",
       "email": "eugeniogunz@hotmail.com",
       "telefono": "379132712",
       "notas": "recomend",
       "id": 1
-    },
-    {
-      "nombre": "carolina",
-      "empresa": "dada",
-      "email": "adsmin@admin.com",
-      "telefono": "54545",
-      "notas": "aa",
-      "id": 2
     }
   ]
 }
